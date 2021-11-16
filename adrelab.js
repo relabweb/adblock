@@ -6,7 +6,7 @@ document.addEventListener( 'DOMContentLoaded', function () {
 		timeout: '0',    
 		closeable: 'off',  
 		title: `ReLab.Top đã phát hiện AdBlocker`,
-		content: `MĂ¬nh tháº¥y báº¡n Ä‘ang sá»­ dá»¥ng tiá»‡n Ă­ch cháº·n quáº£ng cĂ¡o, báº¡n cĂ³ thá»ƒ vui lĂ²ng táº¯t nĂ³ Ä‘á»ƒ giĂºp mĂ¬nh duy trĂ¬ hoáº¡t Ä‘á»™ng cá»§a website Ä‘Æ°á»£c khĂ´ng? MĂ¬nh xin chĂ¢n thĂ nh cáº£m Æ¡n.
+		content: `Mình đang thấy bạn dùng tiện ích chặn quảng cáo, bạn có thể vui lòng tắt nó để giúp mình duy trì hoạt động của Website được không? Mình xin chân thành cảm ơn.
 
 &nbsp;`,
 		bg_color: 'rgba(255, 0, 0, 0.75)',
